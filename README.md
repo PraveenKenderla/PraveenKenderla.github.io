@@ -1,3 +1,3 @@
 # PraveenKenderla.github.io
 
-# Lets see whether this appears or not!
+# Does this take index file and how to add templates bro?
